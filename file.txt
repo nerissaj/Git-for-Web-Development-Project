@@ -1,1 +1,5 @@
+Hello I am learning CSS and Git and HTML for my first week.
+
+
+
 Hello World Git hub
